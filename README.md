@@ -26,8 +26,8 @@ Using OpenCageGeocode(Key) and explicitly defining latitude and longitude of the
 2. Map is saved with .html extension
 
 # Map :
-United Kingdom         //Location &nbsp;
-Tismi                  //Service Provider
+United Kingdom         //Location  
+Tismi                  //Service Provider  
 54.7023545 -3.2765753 // Latitude, Longitude
 ![Screenshot (750)](https://user-images.githubusercontent.com/86195118/126360798-6414acdb-0123-4527-acd6-5fcb4d7324bd.png)
 
