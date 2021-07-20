@@ -2,8 +2,8 @@
 A Phone Number Location Tracker implemented using python libraries like Folium, phonenumbers &amp; OpenCage Geocoding API. 
 
 # Libraries used :
-phonenumbers
-Folium
+1.phonenumbers
+2.Folium
 
 # APIs used :
 OpenCage Geocoding
@@ -26,8 +26,16 @@ Using OpenCageGeocode(Key) and explicitly defining latitude and longitude of the
 2. Map is saved with .html extension
 
 # Map :
+United Kingdom
+Tismi
+54.7023545 -3.2765753
 ![Screenshot (750)](https://user-images.githubusercontent.com/86195118/126360798-6414acdb-0123-4527-acd6-5fcb4d7324bd.png)
 
+India
+Idea
+22.3511148 78.6677428
 ![Screenshot (751)](https://user-images.githubusercontent.com/86195118/126361038-03b5db66-d2d6-41fa-8ec3-307bebe4ff4d.png)
 
+Pennsylvania
+40.9699889 -77.7278831
 ![Screenshot (754)](https://user-images.githubusercontent.com/86195118/126361133-9214a79c-f5a7-4143-b068-fe811e22baeb.png)
