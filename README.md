@@ -26,16 +26,16 @@ Using OpenCageGeocode(Key) and explicitly defining latitude and longitude of the
 2. Map is saved with .html extension
 
 # Map :
-United Kingdom         //Location  
-Tismi                  //Service Provider  
-54.7023545 -3.2765753 // Latitude, Longitude
+United Kingdom                    (Location)  
+Tismi                             (Service Provider)  
+54.7023545 -3.2765753             (Latitude, Longitude)
 ![Screenshot (750)](https://user-images.githubusercontent.com/86195118/126360798-6414acdb-0123-4527-acd6-5fcb4d7324bd.png)
 
-India
-Idea
-22.3511148 78.6677428
+India                             (Location)  
+Idea                              (Service Provider)
+22.3511148 78.6677428             (Latitude, Longitude)
 ![Screenshot (751)](https://user-images.githubusercontent.com/86195118/126361038-03b5db66-d2d6-41fa-8ec3-307bebe4ff4d.png)
 
-Pennsylvania
-40.9699889 -77.7278831
+Pennsylvania                      (Location)
+40.9699889 -77.7278831            (Latitude, Longitude)
 ![Screenshot (754)](https://user-images.githubusercontent.com/86195118/126361133-9214a79c-f5a7-4143-b068-fe811e22baeb.png)
